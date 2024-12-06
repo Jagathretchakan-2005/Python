@@ -4,4 +4,4 @@ This repository is a learning journey and practical exploration of Python progra
 
 License
 
-This repository is licensed under the MIT License. See the LICENSE file for more details
+This repository is licensed under the MIT License. See the LICENSE file for more details.
